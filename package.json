@@ -1,6 +1,6 @@
 {
   "name": "zoid-checkout-component",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "Cross domain checkout component.",
   "main": "index.js",
   "repository": {
